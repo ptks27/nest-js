@@ -56,3 +56,79 @@
 
 ```bash
 $ npm install
+```
+
+---
+
+## 🚀 Compile and Run
+
+```bash
+# Development
+$ npm run start
+
+# Watch mode
+$ npm run start:dev
+
+# Production mode
+$ npm run start:prod
+```
+
+---
+
+## 🧪 Testing
+
+```bash
+# Unit tests
+$ npm run test
+
+# End-to-end tests
+$ npm run test:e2e
+
+# Test coverage
+$ npm run test:cov
+```
+
+---
+
+## 🛢 Deployment
+
+For production deployment, follow the [official deployment guide](https://docs.nestjs.com/deployment).
+
+Alternatively, you can use [Mau](https://mau.nestjs.com), our official cloud deployment platform for AWS. Deploy in a few simple steps:
+
+```bash
+$ npm install -g mau
+$ mau deploy
+```
+
+---
+
+## 🌟 Resources
+
+- **Documentation:** [NestJS Docs](https://docs.nestjs.com)
+- **Community Support:** [Discord](https://discord.gg/G7Qnnhy)
+- **Video Courses:** [Official Courses](https://courses.nestjs.com)
+- **NestJS Devtools:** [Interactive Application Visualization](https://devtools.nestjs.com)
+- **Enterprise Support:** [Official Support](https://enterprise.nestjs.com)
+- **Jobs Board:** [Find or Post Jobs](https://jobs.nestjs.com)
+- **Stay Updated:** Follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs)
+
+---
+
+## 💡 Support Us
+
+Nest is an open-source project under the MIT license. If you’d like to support the development, consider sponsoring us. Learn more at [NestJS Support](https://docs.nestjs.com/support).
+
+---
+
+## 👤 Stay in Touch
+
+- **Author:** [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
+- **Website:** [https://nestjs.com](https://nestjs.com/)
+- **Twitter:** [@nestframework](https://twitter.com/nestframework)
+
+---
+
+## 🐜 License
+
+Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
